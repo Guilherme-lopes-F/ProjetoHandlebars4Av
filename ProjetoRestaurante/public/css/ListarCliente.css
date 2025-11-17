@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@400;700&display=swap');
+
+body{
+    background-color:#1a1110;
+    
+}
+.tabela{
+    position: absolute;
+    inset: 0;
+    margin: auto;
+    width: 40vw;
+    height: fit-content;
+    box-sizing: border-box;
+    border: 2px solid sienna;
+
+}
+.tabela table{
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+
+h1{
+    background: linear-gradient(to right, rgb(255, 255, 255), rgb(222, 222, 236), rgb(203, 187, 187), rgb(209, 223, 255) );
+    background-clip: text;
+    color: transparent;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+    font-family: "Playwrite CU", cursive;
+}
+
+        
+
+
+
+td{
+    background-color: white;
+
+
+}
+
+
+            
+
+thead{
+
+background-color: lightsteelblue;
+}
+a{
+    text-decoration: none;
+    color: crimson;
+}
